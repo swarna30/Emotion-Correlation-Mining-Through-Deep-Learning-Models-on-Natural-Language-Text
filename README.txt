@@ -13,8 +13,6 @@ STEP 10: click on Group Recomemndation to calculate Betweenness value which mean
 STEP 11: click on Remove  redudant data to remove them
 STEP 12: click on Recommend the group 
 STEP 13: click on Cluster the group 
-STEP 14: Performance Analysis
-		-To calculate the Algorithm accuracy by using Confusion matrix.
-	--> Result
-		-Generate the graph based on the number of tweets in the each groups.
+STEP 14: click on Performance Analysis to calculate the Algorithm accuracy by using Confusion matrix
+STEP 15: A graph will be generated based on the number of tweets in the each groups.
 		
